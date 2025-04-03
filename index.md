@@ -2,10 +2,12 @@
 
 ## Header 2
 
-_italic_
+**_Add code_**
+```R
+# load packages
+pacman::p_load(here)
+```
 
-**_italic and bold_**
-
-Add image
+**_Add image_**
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
